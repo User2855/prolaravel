@@ -1,1 +1,1 @@
-# prolaravel - melakukan post pada github
+# prolaravel - membuat aplikasi kasir menggunakan laravel
